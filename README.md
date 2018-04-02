@@ -4,6 +4,14 @@
 
 Repo Location: [Github Link](https://github.com/grantaguinaldo/AQMD_violation_classification)
 
+## Techstack
+* Python
+* Pandas
+* sklearn (countvectorizer, k-means, tSNE)
+* Beautiful Soup
+* git
+* matplotlib/Bokeh/Seaborn
+
 ## Find summary statistics of the dataset.
 *	Chart histogram of all of the settlement costs.
 *	Chart histogram of all of all of the settlement costs by facility types.
@@ -33,5 +41,6 @@ Repo Location: [Github Link](https://github.com/grantaguinaldo/AQMD_violation_cl
 ## Other
 * Take existing clustering, and further refine cluster number 1 to see what trends can be identified in the data. 
 * Can we take the clusters and do linear regression on the data to predict the settlement cost?
+* What is the [AQMD](https://www.enveraconsulting.com/what-is-the-scaqmd/)?
 
 ***
